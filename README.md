@@ -16,6 +16,9 @@ Used Python and the libraries ﻿pandas, numpy, scikit-learn and seaborn in Jupy
 
 ## Results
 Missing values in Age, Cabin, and Embarked were successfully handled.
+
 Categorical variables were encoded, and numerical data was normalized.
+
 Outliers were detected and removed.
+
 Final cleaned dataset is saved as titanic_cleaned.csv
