@@ -1,0 +1,5 @@
+The Python Libraries used are,﻿
+1.pandas
+2.numpy
+3.scikit-learn
+5.seaborn
