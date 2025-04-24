@@ -7,7 +7,7 @@ This project involves cleaning and preprocessing the Titanic dataset for machine
 ## Dataset
 Source: Titanic dataset from Kaggle.
 
-## Files:
+## Files
 Titanic_Dataset.csv: The original dataset.
 titanic_cleaned.csv: The cleaned dataset.
 
